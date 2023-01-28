@@ -58,8 +58,6 @@ p.stext {
     width: 100%;
   }
 
-/********** Small Devices ***********/
-
 
 /********** Desktop Version **********/
 @media (min-width: 992px) 
